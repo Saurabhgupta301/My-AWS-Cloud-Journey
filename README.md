@@ -12,7 +12,7 @@ This repo documents my day-wise progress, insights, and interview preparation as
 |-----|-----------------------------------|------------------|
 | 1   | Cloud Computing, Virtualization, AWS Intro | [Medium Post](https://medium.com/@100rabhgupta301/aws-day-1-cloud-computing-virtualization-aws-overview-b26718c7082b) |
 | 2   | IAM, Access Methods, Best Practices        | [Medium Post](https://medium.com/@100rabhgupta301/aws-day-2-iam-and-access-methods-explained-simply-abc123456) |
-
+| 3   | AWS EC2                                    | [Medium Post](https://medium.com/@100rabhgupta301/%EF%B8%8F-day-3-deep-dive-into-amazon-ec2-5bd42f402c19) |
 More coming soon... 🛠️
 
 ---
@@ -34,6 +34,8 @@ My-AWS-Cloud-Journey/
 ├── day-1-cloud-basics/
 │   └── notes.md
 ├── day-2-iam-access/
+│   └── notes.md
+├── day-3-aws-ec2/
 │   └── notes.md
 ├── interview-pdfs/
 │   └── aws-iam-interview-questions.pdf
